@@ -1,0 +1,6 @@
+# Project exclude paths
+/languages/MIPS/classes_gen/
+/languages/MIPS/generator/classes_gen/
+/languages/MIPS/sandbox/classes_gen/
+/solutions/MIPS.build/classes_gen/
+/solutions/MIPS.buildPlugin/classes_gen/
