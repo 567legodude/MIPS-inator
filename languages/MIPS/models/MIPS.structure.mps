@@ -206,6 +206,22 @@
       <property role="3tVfz5" value="7738312827582650411" />
       <property role="TrG5h" value="syscall" />
     </node>
+    <node concept="25R33" id="5vjjb5S537y" role="25R1y">
+      <property role="3tVfz5" value="6328486226493190626" />
+      <property role="TrG5h" value="mult" />
+    </node>
+    <node concept="25R33" id="5vjjb5S5382" role="25R1y">
+      <property role="3tVfz5" value="6328486226493190658" />
+      <property role="TrG5h" value="div" />
+    </node>
+    <node concept="25R33" id="5vjjb5S538z" role="25R1y">
+      <property role="3tVfz5" value="6328486226493190691" />
+      <property role="TrG5h" value="mfhi" />
+    </node>
+    <node concept="25R33" id="5vjjb5S5395" role="25R1y">
+      <property role="3tVfz5" value="6328486226493190725" />
+      <property role="TrG5h" value="mflo" />
+    </node>
   </node>
   <node concept="1TIwiD" id="6H$0ChKUpx8">
     <property role="EcuMT" value="7738312827582650440" />
