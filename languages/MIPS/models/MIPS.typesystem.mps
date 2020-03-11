@@ -666,5 +666,22 @@
       <ref role="1YaFvo" to="g8si:4rrg0rZL6zq" resolve="TypedArg" />
     </node>
   </node>
+  <node concept="18kY7G" id="456PAZtoU0d">
+    <property role="TrG5h" value="EmptyArgument" />
+    <node concept="3clFbS" id="456PAZtoU0e" role="18ibNy">
+      <node concept="2MkqsV" id="456PAZtoUDG" role="3cqZAp">
+        <node concept="Xl_RD" id="456PAZtoUDI" role="2MkJ7o">
+          <property role="Xl_RC" value="Empty argument" />
+        </node>
+        <node concept="1YBJjd" id="456PAZtoUDJ" role="1urrMF">
+          <ref role="1YBMHb" node="456PAZtoU0g" resolve="arg" />
+        </node>
+      </node>
+    </node>
+    <node concept="1YaCAy" id="456PAZtoU0g" role="1YuTPh">
+      <property role="TrG5h" value="arg" />
+      <ref role="1YaFvo" to="g8si:456PAZtoTQY" resolve="EmptyArg" />
+    </node>
+  </node>
 </model>
 
