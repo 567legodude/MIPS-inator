@@ -842,10 +842,6 @@
             </node>
           </node>
         </node>
-      </node>
-      <node concept="rzpFf" id="OvgE3FcXcn" role="1ixUyw">
-        <property role="rzpF8" value="6H$0ChKUpwF/syscall" />
-        <node concept="raruj" id="OvgE3FcXc$" role="lGtFl" />
         <node concept="rzpFc" id="OvgE3FcXcA" role="rzpFv">
           <property role="rzpFd" value="print(something)" />
           <node concept="17Uvod" id="OvgE3FdmCm" role="lGtFl">
@@ -936,6 +932,10 @@
             </node>
           </node>
         </node>
+      </node>
+      <node concept="rzpFf" id="OvgE3FcXcn" role="1ixUyw">
+        <property role="rzpF8" value="6H$0ChKUpwF/syscall" />
+        <node concept="raruj" id="OvgE3FcXc$" role="lGtFl" />
       </node>
     </node>
   </node>
