@@ -459,6 +459,8 @@
           </node>
         </node>
         <node concept="3F0A7n" id="7R7vqBu$UG8" role="3EZMnx">
+          <property role="1O74Pk" value="true" />
+          <property role="39s7Ar" value="true" />
           <ref role="1NtTu8" to="g8si:6H$0ChKUpx9" resolve="value" />
           <node concept="VechU" id="2n$JjHAxmkb" role="3F10Kt">
             <node concept="1iSF2X" id="2n$JjHAxmkd" role="VblUZ">
