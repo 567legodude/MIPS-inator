@@ -11,6 +11,8 @@ Check the [Releases](https://github.com/567legodude/MIPS-inator/releases) page t
 4. In the model properties window, choose the Used Languages tab and add the MIPS language to the model.
 5. Right click on the model and choose New > File.
 
+I find it easiest to get the text output by using Right Click > Preview Generated Text, and copying that to where I need it.
+
 It is important to note that what appears in the editor is not a text file that can be edited, but rather a visual representation of the AST.
 Certain parts of the projection are editable cells, and I've tried to mimic how the language *would* appear in a text editor.
 Watch [this video](https://www.youtube.com/watch?v=iN2PflvXUqQ) on the MPS projectional editor to get an understanding of how it works.  
