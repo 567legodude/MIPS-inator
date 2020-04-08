@@ -77,6 +77,21 @@
       <property role="TrG5h" value="arg_size" />
       <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
     </node>
+    <node concept="1TJgyi" id="6xYbP$1lRhw" role="1TKVEl">
+      <property role="IQ2nx" value="7529507686331151456" />
+      <property role="TrG5h" value="settings" />
+      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
+    </node>
+    <node concept="1TJgyi" id="6xYbP$1lRh$" role="1TKVEl">
+      <property role="IQ2nx" value="7529507686331151460" />
+      <property role="TrG5h" value="arg_space" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyi" id="6xYbP$1lRhN" role="1TKVEl">
+      <property role="IQ2nx" value="7529507686331151475" />
+      <property role="TrG5h" value="comment_space" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
   </node>
   <node concept="1TIwiD" id="6H$0ChKUpqf">
     <property role="EcuMT" value="7738312827582649999" />
