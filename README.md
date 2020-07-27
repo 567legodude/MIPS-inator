@@ -1,4 +1,6 @@
 # MIPS-inator
+Abandoned project. This was used for one semester to write MIPS programs. What this gave me over other editors was basic syntax checking and automatic alignment of columns in the code.
+
 ### Installation
 Check the [Releases](https://github.com/567legodude/MIPS-inator/releases) page to download either a standalone IDE or a plugin for Jetbrains MPS.
 
